@@ -15,9 +15,9 @@ requirements and achieve the desired outcome.
     - Define project life cycle
     - Describe origanizational structures
 
+# Get started with your Google Project Management Certificate
 
-
-
-
-
-
+# Helpful resources to get started
+  - https://www.pmi.org/
+  - https://www.scrumguides.org/index.html
+  - https://www.scrum.org/resources

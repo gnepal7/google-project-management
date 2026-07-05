@@ -1,0 +1,42 @@
+# What is project management?
+  + Project 
+    - A unique endeavor, and usually includes a set of unique
+      deliverables.
+    - A temporary pursuit; it has d defined beginning and end.
+  + What is project management?
+    - The application of knowledge, skills, tools, and techniques 
+      to meet the project requirements and achieve the desired outcome.
+    - It is valuable to businesses because it helps ensure that a 
+      project delivers the expected outcomes.
+    . Organize
+    . Budget
+    . Maintain strong communication medium
+    => Accordint to a recent survey by the project management institude:
+      - 48% of projects miss delivery dates
+      - 43% of projects miss budget targets
+      - 31 % of projects fail to meet an orginizations's goals
+
+    > programmer manager is upper than project manager
+
+# What does a project manager do?
+  + Project manager has to:
+    - Planning and organizing
+      > Gathering requirements from customers and stakeholders
+    - Managing tasks
+      > between team members and customers
+    - Budgeting
+      > may change in between of project development
+    - Controlling costs and other factors
+
+# Transferable project management skills
+  + Plan and organize 
+  + Budget and control costs
+  + Managing tasks
+
+# X: Path to becoming a project manager
+
+
+
+
+
+
