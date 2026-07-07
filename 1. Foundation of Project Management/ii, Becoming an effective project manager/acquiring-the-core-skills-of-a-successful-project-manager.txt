@@ -1,0 +1,84 @@
+# The core skills of a project manager
+  Skills for successful project management:
+    1. Enabling decision making
+      - Gather information from teammates and decide
+    2. Communicating and escalating
+      - Communicating and ...
+    3. Flexibility
+      - Plan can be changed as client required or company policy
+      - Stay cool and calm
+      . Asses external conatraints
+      . Plan fro risks and challenges
+      . Calculate 'float' in your schedule
+    4. Strong organizational skills
+      - Organize process and project
+
+# Key competencies: Flexibility and handling ambiguity
+  + Handling ambiguity
+    - Keem calm
+    - Express empathy
+    - Communicate what you know clearly
+    - Make decisions and stick to them
+    - Trust the expertise of your team.
+
+# Introduction to AI for Project Management
+
+# Ben: Driving impact with AI in the workplace
+
+# Use generative AI to work smarter and faster
+  - Gemini
+  - ChatGPT
+  - Miscrosoft Copilot
+  + You can use AI toos for :
+    . Create content
+    . Analyze information quickly
+    . Answer questions in detailed and nuanced ways
+    . Siplify day-to-day work
+
+# Boost your project management skills with AI
+  + Gen AI
+    - Prompt :- should be
+      TCREI = Task, Context, References, Evalute, Iterate
+      For remember 
+       > Thoughtfully create really excellent inputs
+      => Task
+          Persona :- Request AI to work as a specific expert like: designer
+          Format :- paragraph, list or short sentences
+      => Context
+          Providing the scenario for AI 
+      => References
+        Examples can be provided for a specific context 
+      => Evalute
+        Ensure the results as you aspected or not
+      Iterate
+        If result not as aspected, repeat and revise the prompt
+    Human-in-loop approach
+
+# Rachel: My journey to becoming a project manager
+
+# Common myths about project managers
+  1. Myth: You have to be an expert in the field and 
+    have a lot of technical knowledge about the project.
+    => The bottom line :- Project manager don't need to be experts in every field.
+  2. Myth: Only people with a lot of experience within an 
+     organization can manage projects successfully. 
+    => The bottom line :- It is essential to master the skills, tools, and techniques.
+  3. Myth: You have to know every single detail about the project at all times. 
+    => Through the communication skills and strategic approach for problem-solving
+       you can provide solutions and help remove barriers for your team.
+
+# Leadership and team dynamics
+  + Influencing without authority
+    - A project manager's ability to guide teammates to complete their assigned
+      work without acting as their direct managers
+  + Key interpersonal skills
+    - Communication
+      > Asses the work is doing by teammates and evalute 
+    - Negotiation
+      > Talking with teammates and finding which is properly suitable for.
+    - Conflict mediation
+      > To ensure the result is not supressed the project
+    - Understanding motivations
+      > Feedback for teammates, and motivations
+
+# Ellen: Traits of a successful project manager
