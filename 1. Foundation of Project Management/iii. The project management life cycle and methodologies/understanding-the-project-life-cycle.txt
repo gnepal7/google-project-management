@@ -1,0 +1,14 @@
+# Introduction: The project management life cycle and methodologies
+
+# Exploring the phases of the project life cycle
+  + Project life cycle
+    > Initiate the project
+      - Define goal, identify resources, get approval
+    > Make a plan
+      - It covers everything related to project
+    > Execute & complete tasks
+      - Project team, execute well
+    > Close the project
+      - Should review for further projects
+
+# Case study: The significance of each project phase

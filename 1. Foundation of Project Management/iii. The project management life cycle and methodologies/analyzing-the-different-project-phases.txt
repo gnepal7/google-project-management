@@ -1,0 +1,27 @@
+# Phases in action: Initiating and planning
+  + Initiate the project
+    - Define project goal
+    - Determine resources, people, software, vender, ...
+    - Get project approval
+  + Make a plan
+    - Create a budget
+    - Set the schedule
+    - Extablish your team
+    - Determine roles and responsibilities
+    - Planning for risk in change
+    - Establisg communication
+
+# Phases in action: Executing and closing
+  + Execute and complete
+    - Manage the progress
+    - Communication 
+    - Make adjustments
+  + Close the project
+    - Ensure all tasks have been completed
+    - Confirm acceptance of the project outcome
+    - Reflects on lesson learned
+    - Communicate results with stakeholders
+    - Celebrete the completing project
+    - Formally move to next one
+
+# Summary of the project phases
