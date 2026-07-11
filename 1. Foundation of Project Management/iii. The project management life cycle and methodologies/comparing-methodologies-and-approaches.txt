@@ -8,14 +8,56 @@
     - Iterative means some of the phases and tasks will overlap or
       happen at the same time that other tasks are being worked on.
       
+# Overview of Waterfall and Agile
+  + Waterfall
+    - Developed in 1970s
+    - Linear approach
+    - Mostly suitable for construction
+    - Initiating, Planning, Executing, and Closing
+    - Properly documented
+  + Agile
+    - Able to move quickly and easily
+    - Willing to change and adapt
+    - Done in pieces
+    - Developed in 1990s, come in use 2001
+    - Scrum, sprint
+    - High uncertained projects
 
+# Comparing Waterfall and Agile approaches
 
+# Introduction to Lean and Six Sigma
+  - Commonly known as DMAIC
+  + Define
+    > Initiation
+  + Measure
+    > Map current and detect problem
+    > Use of company data
+  + Analyze
+    > Data and another
+  + Improve
+    > Find the current progress and ...
+  + Control
+    > All project control
 
+# Lean and Six Sigma methodologies
+  => Lean
+  - Is originated from manufacturing
+  - Main principles is remove waste within operation
+  - 5s method 
+    > Sort
+    > Set in order
+    > Shine
+    > Standardize
+    > Sustain
+  Kanbon and 5s 
 
-
-
-
-
-
-
-
+# Common project management approaches and how to select one
+  + Popular project management approaches
+    > Waterfall
+    > Agile
+    > Scrum : agile framework
+    > Kanban : agile framework
+    > Lean
+    > Six Sigma
+    > Lean Six Sigma
+  https://www.teamwork.com/project-management-guide/project-management-methodologies/
