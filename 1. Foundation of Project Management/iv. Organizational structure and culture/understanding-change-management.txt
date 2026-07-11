@@ -1,0 +1,27 @@
+# Introduction to change management
+  + Change management
+    - The process of delivering your completed project and getting
+      prople to adopt it.
+  + Differebce between project and change management
+    - Core concepts
+      > Create a sense of ownership and urgency
+      > Figure out the right combination skills and personalities
+      > Effective communication 
+
+# A project manager’s role in change management
+  + Best practices for approaching change management on your projects:
+    > Be proactive
+    > Communicate about upcoming changes
+    > Follow a consistent process
+    > Practice empathy
+    > Use tools
+
+# Participating in change management
+
+# Corporate and project governance
+  + Corporate governance
+    - Each organization is governed by its own set of standards and practices
+      that direct and control its actions, these (standards and practices) called
+      Corporate governance.
+  + Project governance
+    - It is a framework for how project decisions are made.
