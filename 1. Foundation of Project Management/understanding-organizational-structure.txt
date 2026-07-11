@@ -1,0 +1,28 @@
+# Introduction: Organizational structure and culture
+
+# Overview of Classic and Matrix structures 
+  + Classic Structure
+    - Functional or top-down structure
+    - CEO has direct authority over several department managers
+    - CEO, and .... responsible to upper lavel staff
+  + Matrix Structure
+    > Adjacent department
+    > Direct higher-ups and stakeholders from other departments or programs
+    > Similar to cross-functional
+
+# A project manager's role within different organizational structures 
+
+# How organizational structure impacts project management
+  - Authority has to do with your ability to make decisions for the project that impact the organization.
+  - In matrix structure, can have more manager. Cross-team.
+  
+# The role of a Project Management Office 
+  + PMO = Project Management Office
+  + What are the functions of a PMO?
+    - Strategic planning and governance
+    - Best practices
+    - Common project culture
+    - Resource management
+    - Creation of project documentation, archives, and tools
+  
+# Lan: Working in a Project Management Office
