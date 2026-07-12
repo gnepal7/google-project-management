@@ -1,0 +1,45 @@
+# Why is project initiation essential?
+  - Initiation is the first phage of project life cycle
+  + Cost benefit analysis
+    - The process of adding up the expected value of a project--the
+      benefits--and comparing them to the dollar costs
+  + Benefits
+    - what values will this project create?
+    - How much money could this project save our organization?
+    - How much money will it bring in from existing customers?
+    - How mich time will be saved?
+    - How will the user experience be improved?
+  + Costs
+    - How much time will people have to spend on this project?
+    - What will be the one-time costs?
+    - Are there any ongoing costs?
+    - What about long-term costs?
+
+# Key components of project initiation
+  + Goals 
+    - The goal is what you've been asked to do and what you're
+      trying to achieve.
+  + Scope 
+    - This is the process to define the work that needs to happen
+      to complete the project
+  + Delivarables 
+    - Products and services that you will create for your customer,
+      client, or project sponsor
+    - Can be tangible or intangible
+  + Success criteria
+    - The standards by which you measure how successful a project
+      was in reaching its goals.
+  + Stakeholders
+    - Theey are people who both have an interest in, and are affedted
+      by, the completion and success of a project.
+  + Resources
+    - Budget
+    - People/Staffs
+    - Materials
+  => Project charter
+    - A document that clearly defines the project and its goals, 
+      and outlines what is needed to accomplish them
+
+# Afsheen: Listening to learn
+
+# Performing a cost-benefit analysis
