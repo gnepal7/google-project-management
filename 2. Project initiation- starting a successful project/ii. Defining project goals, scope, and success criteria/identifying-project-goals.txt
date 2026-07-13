@@ -1,0 +1,59 @@
+# Introduction: Defining project goals, scope, and success criteria
+
+# Determining project goals and deliverables
+  + Project goal
+    - Desired outcome of a project
+  + Project deliverables
+    - The products or services that are created for the customer client, or project sponsor.
+    - What gets produced or presented ant the end of a task, event, or process
+    - Help quantify and realize the impact of the project.
+
+# How to set SMART goals
+  SMART = Specific, Measurable, Attainable, Relevant, Time-bound
+  + Specific
+    - What do i want to accomplish?
+    - Why is this a goal?
+    - Who is involved
+    - Where should be the goal be delivered?
+    - To what degree?
+  + Measurable
+    - How much
+    - How many 
+    - How will I do it
+    => Metrics 
+    => Benchmarks :- points of reference
+  + Attainable/Managable
+    - Can it reasonably be reached?
+    - How can it be accomplished?
+  + Relevant
+    - Does the goal make sense?
+    - Is the goal worthwhile?
+    - Is it the right time?
+  + Time-bound
+    - Deadline
+  
+# SMART goals: Making goals meaningful
+
+# Activity Exemplar: Define and determine SMART project goals
+
+# Introduction to OKRs
+  + OKRs = Objectives + key results
+  - OKRs combine a goal and metric to determine a measurable ouotcome.
+  + Objective
+    - Defines what needs to be achieved
+    - Describes a desired outcome
+  + Key results
+    - The measurable outcomes that define when the objective has been met
+  + Objective
+    - Similar to goals
+    - Describe a desired outcome
+  + OKR level
+    - Company level
+      > 
+    - Project level
+      > Project-level OKRs need to align with and support both company and department-level OKRs.
+
+# Creating OKRs for your project
+
+
+
