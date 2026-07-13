@@ -54,6 +54,3 @@
       > Project-level OKRs need to align with and support both company and department-level OKRs.
 
 # Creating OKRs for your project
-
-
-
