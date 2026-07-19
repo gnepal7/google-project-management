@@ -1,0 +1,53 @@
+# Determining a project's scope
+
+# Gathering information to define scope
+
+# Monitoring and maintaining a project's scope
+  + In-scope  
+    - Tasks that are included in the project plan and contribute
+      to the project's goal
+  + Out-of-scope
+    - Tasks that are not included in the project plan and don't 
+      contribute to the project's goal
+  + Scope creep
+    - Changes, growth, and uncontrolled factors that affects a 
+      project's scope at any point after the project begins.
+    => Sources
+      > External
+        - Customer requests
+        - Environment shifts
+        - Changes in technology
+      > Internal
+        - Product improvements
+        - Processes changes
+    => Solutions
+      . Make project plan visible
+      . Get clarity on project requirements
+      . Set ground rules and expectations for stakeholder involvement
+      . Create a plan for dealing with out-of-scope requests
+      . put your agreement in writing
+
+# Strategies for controlling scope creep
+  + Scope management best practices
+    - Define your project's requirements
+    - Set a clear project schedule
+    - Determine what is out of scope
+    - Provide alternatives
+    - Set up a change control process 
+    - Learn how to say no 
+    - Collect costs for out-of-scope work
+
+# Managing changes to a project's scope
+  + 3 constrains models
+    - Scope
+    - Cost 
+    - Time
+
+# Torie: The importance of staying within scope
+
+
+
+
+
+
+
