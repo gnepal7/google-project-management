@@ -1,1 +1,46 @@
+# Launching and landing a project
+  + Launch
+    - Delivering the final result of your project to the client or user
+  + Landing
+    - Measuring the success of your project using the success criteria established at the outset of the project
 
+# Don't forget to land: Measuring project success
+  + Launching vs. landing a project
+    - 'Lanuching' means you have delivered the final results of the project to the client or user.
+    - Project won't be complete until you 'land', by thoroughly measuring the results, success criteria and metrics you defined initially when setting SMART goals.
+  + Launch first, land later
+
+# Defining success criteria
+  + Success criteria
+    - Tells you whether or not the project was successful
+    - Specific details of project goals, deliverables, requirements, and expectations
+    - The standards by which the project will be judged once it's been delivered to stakeholders.
+  + Determining project success
+    - Identify measurable aspects of projects
+    - 
+  + Adoption
+    - Adoption refers to how the customer uses and adopts a product or service without any issues
+  + Engagement
+    - How often of meaningful customer interaction and participation is over time
+
+# Tracking and communicating success criteria
+  + Success criteria
+    - Recall SMART = Specific, Measurable, Attainable, Relevant, and Time-bound
+    > Product quality
+    > What is important to the customers or stakeholders
+    > Document, align, and communicate success
+
+# Using OKRs to evaluate progress
+  + Objectives and Key Results (OKRs)
+    > Objectives
+      . Defines what needs to be achieved
+      . Describes a desired outcome
+    > Key results
+      . The measurable outcomes that objectively define when the objective has been met
+  + Communicating and tracking OKRs
+    - Share your OKRs with your team
+    - Assign owners.
+  + Measuring progress
+    - Determine how you will score your OKRs
+    - Set your scoring expectations
+    - Schedule checkpoints
