@@ -1,1 +1,47 @@
+# Introduction: Working effectively with stakeholders
+  + Stakeholders
+    - People who are interested in and affected by the project's completion and success.
+
+# Accessibility for project managers
+  + Accessibility
+    - Actively removing any barriers that might prevent persons with diasbilities from being ablt to access technology, information, or experiences, and leveling the playing field so everyone has an equal chance of enjoying life and being successful
+    - Works for everyone
+
+# Choosing a project team
+  + When chosing a team, consider:
+    - Required roles
+    - Team size
+    - Necessary skills
+    - Availability
+    - Motivation
+
+# Review: The building blocks of a project dream team
+  + Too big, too small, or just right? 
+    - Depends on the size of projects
+  + The right skills and abilities to fill the role
+    - Technical skills
+    - Problem-solving skills
+    - Leadership skills
+  + Who is available?
+  + What motivates them?
+
+# Defining project roles
+  + Project sponsor = Director of project
+    - The person who's accountable for the project and who ensures the project delivers the agreed upon business benifits
+  + Team Member = Marketing team, website designer&developers
+  + Customers = Buyers
+  + Users = Employees
+  + Stakeholders
+  + Project Manager
+  
+# Essential project roles
+  + Project managar
+  + Stakeholders
+    - Primary
+    - Secondary
+  + Project team members
+  + Sponsor
+
+# John: The importance of a project team
+
 
