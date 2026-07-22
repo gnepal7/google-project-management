@@ -1,1 +1,29 @@
+# Completing a stakeholder analysis
+  - Primacy stakeholders are prople who will benefit directly from the project's success, while secondary stakeholders are indirectly impacted by the project's success.
+  + 3 key steps for stakeholders analysis
+    - Make a list of all the stakeholders the project impacts
+    - Determine the level of interest and influence for each stakeholder
+    - Asses stakeholders' ability to participate and then find ways to involve them
+  + 4 methods for classification of stakeholders
+    + Visualizing your analysis
+      - meet their needs (top-left on chart) : high influence, low interest
+      - Key player (top-right on chart) : high influence, high interest
+      - Monitor (bottom-left on chart) : low influence, low interest
+      - Show consideration (bottom-right) : low influence, high interest
+
+# Prioritizing stakeholders and generating their buy-in
+  + Key steps in stakeholder analysis:
+    - Make a list and ask yourself: who is invested?, who is impacted?, and who contributes?
+    - Determine the level of interest and influence for each stakeholder
+    - Active stakeholder : ability to participate and find ways to involve them. Passive stakeholder : perfers high-level updates and not involves in day-to-day actions.
+  + Steering committee : collection of key stakeholders who have a high level of power and interest in a project
+
+
+
+
+
+
+
+
+
 
