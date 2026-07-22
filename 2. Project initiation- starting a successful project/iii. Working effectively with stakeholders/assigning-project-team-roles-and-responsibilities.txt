@@ -1,1 +1,35 @@
+# Elements of a RACI chart
+  + RACI chart
+    - A RACI chart helps to define roles and responsibilities for individuals or teams to ensure work gets done efficiently
+  + RACI = Responsible, Accountable, Consulted, Informed
+
+# Building out a RACI chart
+  + Elements on RACI chart:
+    - R: Responsible: who gets the work done
+    - A: Accountable: who makes sure the work is done
+    - C: Consulted: who gives input or feedback on work
+    - I: Informed: who needs to know the outcome
+
+# Certificate completers: Staying motivated in the program
+
+# Getting the most out of a RACI chart
+  + Workload balance 
+    - Review R assignments to identify overloaded stakeholders and balance responsibilities.
+    - Prevent knowledge silos by distributing responsibilities across multiple team members.
+    - Delegate tasks effectively to reduce burnout and maintain a balanced workload.
+  + Put your RACI into practice
+    - Share the RACI chart to gain stakeholder buy-in and clear responsibility alignment.
+    - Document stakeholder acknowledgment through the project charter, meeting notes, or RACI chart.
+    - Assign clear task ownership to improve communication and decision-making throughout the project.  
+  + When should you use a RACI chart?
+    - Use a RACI chart for large, complex projects with many stakeholders.
+    - Small projects with clear roles may not benefit from a RACI chart.
+    - Creating a RACI chart improves project understanding and management experience
+
+# Why projects fail: Initiation missteps
+  - Unclear expectations 
+  - Miscommunication
+  - Lack of resources
+  - Scope creep 
+
 
