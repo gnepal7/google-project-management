@@ -1,0 +1,58 @@
+# Utilizing tools for effective project management
+  + Project management tools help you:
+    - Track task deadlines
+    - Provide visibility to others
+    > monday.com
+    > G-suite
+    > Jira software
+    > Smartsheet
+    - Manage t budget
+    - Create helpful diagrams
+    - Manage contracts
+
+# Introducing new tools to a team
+
+# Exploring types of project management tools
+  > Asana
+  > Jira software
+  + Productivity&collaboration tools
+    => Online shared tools
+    => Meeting agendas
+    => Status updates
+    => Spreadsheets
+    => Project plans
+    => Presentations
+    => RACI chart
+    => Email and chat
+
+  + Types of tools
+    . Scheduling and work management software
+    . Productivity tools
+    . Collaboration tools
+
+# Common project management tools
+  > Asana : provide a log of tasks adjusting all activities to project
+  > Spreadsheets : 
+
+# Using Google Sheets for project management
+  > A versitile one
+
+# Demonstrating your knowledge of project management tools
+  . Asana
+  . Basecamp
+  . Trello
+  . Jira
+  . Clickup
+  . Monday.com
+  . Microsoft project or project libre
+  . Smartsheet
+
+# Build a project management tool tracker
+  + Developing your tool tracker spreadsheet
+    1. Create a new spreadsheet
+    2. Add column headers
+    3. Add tools and relevant information
+    4. Format your sheet 
+    5. Continue adding tools
+
+# Amar: Tools are our best friends

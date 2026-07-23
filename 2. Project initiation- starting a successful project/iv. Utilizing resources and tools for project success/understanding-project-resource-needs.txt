@@ -1,0 +1,23 @@
+# Introduction: Utilizing resources and tools for project success
+
+# Essential project resources
+ + Project resources
+  - Budget
+    > An estimate of the amount of money a project will cost to complete
+    > Taxes, expenses for daily activities
+  - Materials
+    > Goods
+  - People
+    > It includes the people who help execute the tasks of a project
+    > manpower inside the companies 
+    > manpower outside the companies
+  => Tools 
+    - Aids that make it easier for a project manager or team to manage
+      resources and organize work 
+    It helps to:
+      - Track tasks
+      - Manage budgets
+      - Collaborate with teammates
+    > Plan pals services
+
+# Managing resources to get the job done

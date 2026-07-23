@@ -1,0 +1,48 @@
+# The value of project documentation
+  > Clear and consistent documentation can ensure tranaparency and 
+    clear communication
+  > Documenting decisions can help you uncover tasks, timelines or costs
+
+# Project proposals and charters 101
+  + Project proposals
+    - A form of documentation that persuades a stakeholder to begin a project
+  + Project charter
+    - A formal document that clearly defines the project and outlines the 
+      necessary details needed to reach its goals    
+    - Goal is to clearly define the key details of the project
+    - It makes clear that the benefits of the project outweigh the costs of the project
+    - It helps to ensure that you and your stakeholders agree on the details of the project
+  => Cost Benefit Analysis
+    . Business value created 
+    . Money saved
+    . Time invested
+
+# Project charters: Elements and formats
+  + Project charters will vary but usually include some combination of 
+    the following key information:
+    1. introduction/project summary
+    2. goals/objectives 
+    3. business case/benefits and costs
+    4. project team
+    5. scope
+    6. success criteria
+    7. major requirements or key deliverables
+    8. budget
+    9. schedule/timeline or milestones
+    10. constraints and assumptions
+    11. risks
+    12. OKRs
+    13. approvals
+
+# Developing a project charter
+  > Name
+  > Brief summary
+  > Goals 
+  > Deliverables 
+  > Business case/Background
+  > Benefits&Costs 
+  > Scope and exclusion
+  > Project team
+  > Measuring success
+
+# Use AI to create a project charter
