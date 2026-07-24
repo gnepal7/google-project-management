@@ -1,1 +1,46 @@
+# The benefits of project planning
+  + Benefits of project planning
+    - Project manager gets assigned
+    - Project goals, scope, and deliverables have to be approved
+    - Team members get assigned
+  
+# Launching the planning phase
+  + In this phage, should be clear on:
+    - Schedule
+      > The project timeline, which includes the start date, the end date, and dates for events in between
+    - Budget
+      > The budget will account for the total cost to complete the project.
+    - Risk management
+      > Searching for possible problems related to the project and planning ahead to mitigate these risks
 
+# Facilitating a project kick-off meeting
+  + Project kick-off meating
+    - The first meeting in which a project team comes together to ground everyone in a shared vision, gain a shared understanding of the project's goal and scope, and to understand each person's individual roles within the team.
+  + Who to invite to a kick-off meeting
+    - Project team
+    - Project stakeholders
+    - Project sponsor
+  + Kick-off meetings should:
+    - Establish a shared vision
+    - Align on scope
+    - Build team rapport
+    - Ask questions and offer insights
+  + Kick-off meeting agenda
+    - Introductions
+    - Background
+    - Goals and scope
+    - Roles
+    - Collaboration
+    - What comes next
+    - Questions
+
+# Tips for leading a successful kick-off meeting 
+  + Kick-off meeting best practices  
+    . Set the right time
+    . Set the right length
+    . Invite the right people
+    . Designate a notetaker
+    . Set the agenda
+    . Share the agenda
+    . Stick to the agenda
+    . Follow up after the meeting
