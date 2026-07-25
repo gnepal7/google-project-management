@@ -1,13 +1,47 @@
 # Understanding tasks and milestones
+  + Milestone
+    - An important point within the project schedule that indicates progress and usually signifies the completion of a deliverable or phase of the project
+    - Can be multiple in a project.
+    - These are important points within the project schedule.
+  + Project rask
+    - An activity that needs to be accomplished within a set period of time
+    - Tasks are activities that need to be accomplished within a set period of time.
 
+# The importance of setting milestones 
+  > Setting milestones gives you a clear understanding of the amount of work your project will require.
+  > Milestones help keep your project on track.
+  > Milestones help uncover areas where you might need to adjust scope, timelines, or resources to meet your goals.
+  > Reaching milestones can seriously motivate your team, and illustrate real progress to  your stakeholders.
+  > Milestones also serve as a great check-in point to highlight your progress to stakeholders.
+  > Milestones must be completed on time and in sequential order.
+  > If you fail to complete a deliverable tied to a specific milestone, it could set back your project schedule.
 
+# How to set milestones
+  > The first step to setting a milestone is to evaluate your project as a whole.
+  > Once you've determined your milestones, the next step is to assign each one a deadline.
+  > When determining deadlines for milestones, you'll also want to consider the needs of your stakeholders.
 
+# Setting milestones: Best practices
+  + Set tasks to identify milestones
+    > Top-down scheduling : Higher-level milestones, break down the effort into tasks
+    > Bottom-up scheduling : Individual tasks that need to be completed, which are manageable
+  + Milestone-setting pitfalls
+    > Don’t set too many milestones
+    > Don't mistake tasks for milestones
+    > Don't list your milestones ans tasks separately
 
+# Creating a work breakdown structure
+  + Work breakdown structure (WBS)
+    - A tool that sorts the milestones and tasks of a project in a hierarchy, in the order they need to be completed.
+  + Structure of WBS
+    - Tree
+  + After completing a WBS, you should have:
+    - Sets of discrete project tasks that ladder up to each of your milestones
+    - Team members assigned to each task
 
-
-
-
-
-
-
+# Breaking down the work breakdown structure
+  + Steps to build a WBS
+    - Start with the high-level, overarching project picture. Brainstorm with your team to list the major deliverables and milestones.
+    - Identify the tasks that need to be performed in order to meet those milestones.
+    - Examine those tasks and break them down further into sub-tasks.
 
