@@ -1,0 +1,18 @@
+# Getting started with a project plan
+
+# Components of a project plan
+  + Project plan
+    > Tasks
+    > Milestones
+    > People
+    > Documentation
+    > Time
+
+# Putting together the pieces of a project plan
+  + How project plan components are connected
+    - You should include the following components in your project plan:
+      > Scope and goals
+        . Project charter/Documentation
+      > Work breakdown structure (WBS)
+      > Budget
+      > Management plans
