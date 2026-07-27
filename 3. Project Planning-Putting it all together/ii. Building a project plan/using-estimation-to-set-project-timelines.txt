@@ -1,1 +1,65 @@
+# Making realistic time estimates
+  + Time estimation 
+    - A prediction of the total amount of time required to complete a task
+  + Effort estimation 
+    - A prediction of the amount and difficulty of active work required to complete a task
+  => Unrealistic effort estimates happen when you've underestimated the amount of time it'll take to complete a task
+  => Too much optimism can lead you to overlook potential risks could set your plans behind schedule
+  + Sub-tasks 
+    - Smaller tasks that are required to complete a larger task
+  + Buffer
+    - Extra time added to the end of a task or project to account for unexpected slowdowns or delays in work progress
+    . Task buffers
+      > Extra time tacked on to a specific task
+      > Task buffers should be used primarily for tasks that are out of the project team's control.
+      > It should be used more sparingly for tasks within the project team's control
+    => Adding a buffer to every project task could lengthen your project schedule unnecessarily.
+    . Project buffer
+      - Extra time tacked onto the end of a project
+    
+# Case study: Run fast, pay later
+  + Run fast, pay later: A case study on time estimation
 
+# Overcoming the planning fallacy
+  + The planning fallacy and optimism bias
+
+  + Avoiding the planning fallacy: A case study
+
+# Capacity planning and the critical path
+  + Capacity
+    - The amount of work that the people or resources assigned to the project resonably complete in a set peroid of time
+  + Capacity planning
+    - Refers to the act of allocating people and resources to project tasks, and determining whether or not you have the necessary resources required to complete the work on time
+  + Critical path
+    - The list of project milestones you must reach in order to meet the project goal on schedule, as well as the mandatory tasks that contribute to the completion of each milestone
+  > Identify which tasks can happen in parallel vs. which tasks happen sequentially
+  > Determine which projcet tasks have a fixed start data
+  > Determine which project tasks have an earliest start data
+  > Iednfity it a task has float(also called slack)
+
+# Creating a critical path
+  + Why the critical path is critical
+    - It determines the essential tasks that need to be completed
+    - Provide quick reference for critical tasks by revealing which tasks will impact the project
+    + How to create a critical path
+      1. Capture all tasks : Work breakdosn structure
+      2. Set dependencies  
+        To figure out dependencies for each task, ask:  
+          > Which task needs to take place before this task?
+          > Which task can be finished at the same time this task?
+          > Which task needs to happen right after this task?
+      3. Create a network diagram
+      4. Make time estimates
+      5. Find the critical path
+        > Forward pass : critical path to the end of project
+        > Backward pass : start with the final task or milestone and move backwards.
+
+# Getting accurate time estimates from your team
+  + Soft skills
+    - Personal characteristics that help people work effectively with others
+  + Soft skills for accurate estimation
+    - Asking the right questions
+    - Negotiating effectively
+    - Practicing empathy
+
+# Angel: The value of interpersonal skills in time estimation
