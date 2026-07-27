@@ -1,1 +1,38 @@
+# Developing a project schedule
+  + Gantt chart
+    - Gantt charts are a highly visual representation of a project's tasks, with clear breakdowns of who's responsible for the work and when those tasks are due.
 
+# Project plan best practices
+  + 5 best practices
+    . Carefully review deliverables, milestones, and tasks
+    . Give yourself time to plan
+    . Recognize and plan for the inevitable: things will go wrong
+    . Stay curions
+    . Champion your plan
+
+# Creating a project plan: Tools and templates
+  > Project plan is essentially the project's blueprint
+  > Project plan come in various shapes, sizes, and forms.
+  > Regardless of what tool you use, be sure to include this key information:
+    - Task ID numbers or task names
+    - Task durations
+    - Start and finish dates
+    - Who is responsible for what
+    => Smartsheet, asana, jira, trello
+
+# Introduction to Kanban boards 
+  > Kanban is related to agile project management approach
+  + Purposes of a Kanban board
+    -Give a quick visual understanding of work details and provide critical task information.
+    - Facilitate handoffs between stakeholders, such as between development and testing resources or between team members who work on related tasks.
+    - Help with capturing metrics and improving workflows.
+  + Here is what both sides of the card should include:
+    in front:
+      . Title and unique identifier
+      . Description of work
+      . Estimation of effort
+      . Who is assigned to the task
+     in back
+      . Start date
+      . Blocked days
+      . Finish date
