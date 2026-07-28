@@ -1,1 +1,50 @@
+# Creating a project budget
+  + Getting ideas for creating budget
+    . Historical data  
+    . Leverage experts
+    . Bottom-up
+    . Confirm accuracy
+    . Baseline
+      > Break project into tasks
+      > Estimate cost of each item
+      > Add estimates together
+      > Add contingency and tax
+      > Seek approval from key stakeholders
 
+# Helpful budget templates
+
+# Maintaining a project budget
+  + Monitoring
+    - Monitoring the budget is crucial for a project manager to enforce accountability in terms of spending
+  + Milestones 
+    - are a great opportunity to re-review the budget, to identify if anything needs to be reset or revisited throughout the project.
+  + Fixed contracts
+    - Paid for when certain milestones are reached
+  + Time and materials contracts 
+    - Paid monthly based on the hours worked and other fees associated with the work, like travel and meals
+  + Cost control 
+    - Practice where a project manager identifies factors that might impact their budget and then creates effective actions to minimize variances. 
+  => Best options to consideration while maintaining a project budget
+    > Establish a sign off plan and inform appropriate stakeholders of any changes that occur
+    > Manage changes as they're made
+    > Accept that budget misses will happen
+    > Adequately account for, adapt, and manage your budget with that risk in mind
+
+# Overcoming budgeting challenges
+  + Challenge 1: Budget pre-allocation
+    > Budget pre-allocation
+    > Fixed contracts
+    > Time and materials contracts
+  + Challenge 2: Inaccurately calculating TCO
+    > TCO = Total cost of ownership
+  + Challenge 3: Scope creep
+
+# Introduction to budgeting terms
+  + Cash flow
+    - Cash that comes into your project allows you to maintain and compensate resources
+  + CAPEX and OPEX
+    - CAPEX (capital expenses) are an organization's major, long-term, upfront expenses, such as buildings, equipment, and vehicles.
+    - OPEX (operating expenses) are the short-term expenses that are required for the day-to-day tasks involved in running the company, such as wages, rent, and utilities.
+  + Contingency reserves
+    - Prepare for unplanned costs is by using contingency reserves, it also refers to buffers.
+  + Management reserves
