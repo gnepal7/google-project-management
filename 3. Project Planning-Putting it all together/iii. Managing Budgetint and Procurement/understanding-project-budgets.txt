@@ -1,0 +1,49 @@
+# Introduction: Managing budgeting and procurement
+
+# The importance of budget setting
+  + Project budget
+    - The estimated monetary resources needed to achieve the project's goals and objectives.
+  + Forecast
+    - A cost estimate, or prediction over a period of time
+  > The budgeting process usually happens in conjunction with the scheduling process.
+  > A project manager must show the requested amount of money was used in order to secure 
+    enough budget for future projects
+
+# Key components of a project budget
+  => When creating a budget, a project manager must account for:
+    > Understanding stakeholder needs
+    > Budgeting for surprise expenses
+    > Maintaining adaptability
+    > Reviewing and re-forecasting throughout the project
+  + Resource cost rates
+  + Reverse analysis
+  + Contingency budget
+    - Money that is included to cover potentially unforeseen events that aren't accounted for in 
+      a cost estimate
+  + Cost of quality
+    - Costs that are incurred to prevent issues with products, processes, or tasks
+    . Prevention costs
+    . Appraisal costs
+    . Internal failure costs
+    . External failure costs
+
+# Project budgeting 101
+  + Project budgeting best practices
+    > Reference historical data
+    > Utilize your team, mentors, or manager
+    > Time-phase your budget
+    > Check, check, and double check
+  + Categorize different types of costs
+    - Direct costs
+      . Wages and salaries of employees and contractors 
+      . Materials costs
+      . Equipment rental costs
+      . Software licenses 
+      . Project-related travel and transportation costs
+      . Staff training
+    - Indirect costs
+      . Administrative costs
+      . Utilities
+      . Insurance 
+      . General office equipment 
+      . Security
