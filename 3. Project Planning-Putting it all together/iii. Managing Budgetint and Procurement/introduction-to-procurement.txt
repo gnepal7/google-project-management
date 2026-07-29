@@ -1,1 +1,51 @@
 # Understanding procurement
+  + Procurement
+    - Obtaining all of the materials, services, and supplies required to complete the project.
+  + Vendors 
+    - Individuals or businesses who provide essential goods and services.
+    => Steps for choosing vendors:
+      . Sourcing vendors
+      . Getting quotes for vendors' work
+      . Deciphering with vendors will fulfill your needs
+      . Negotiating vendor contracts
+      . Setting deadlines for vendors
+      . Evaluating performance
+      . Ensuring payment
+
+# The procurement process
+  + Processes of procurement
+    . Initiating
+    . Selecting
+    . Contract writing
+    . Control
+    . Completing
+  + Agile procurement management
+    > Collaborative with both the project team and end supplier
+    > Emphasis on the relationship between these parties
+    > Project team plays a larger role in identifying what needs to be procured
+    > Living contract
+  + Traditional procurement management
+    > Focus on standard contracts with clear terms and deliverables
+    > Project manager may be responsible for end-to-end procurement
+    > Contracts may feature lengthy and extensive documentation
+
+# Tips for the procurement process 
+  + Five steps in the typical procurement process:
+    1. Initiating: planning what you need to meet your project goals
+    2. Selecting: deciding which suppliers and vendors to use
+    3. Contract writing: developing, reviewing, and signing contracts
+    4. Controlling: making payments and maintaining and ensuring quality
+    5. Completing: measuring your success
+  
+# Common procurement documentation
+  > Non-Disclosure Agreement (NDA)
+    - A document that keeps confidential information with the organization
+  > Request for Proposal (RFP)
+    - A document that outlines the details of the project
+  > Statement of Work (SOW)
+    - After the vendor selection
+
+# Creating a Statement of Work
+  + SOW
+    - A document that clearly lays out the products and services a vendor or contractor will provide for the organization
+  > Subject Matter Experts (SMEs)
