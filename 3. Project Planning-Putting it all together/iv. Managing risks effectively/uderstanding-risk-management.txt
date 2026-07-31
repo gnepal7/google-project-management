@@ -1,0 +1,29 @@
+# Introduction: Managing risks effectively
+
+# The importance of risk management
+  + Risk
+    - A potential event which can occur and can impact your project
+  + Issue
+    - A known or real problem that can affect the ability to complete a task
+  + Risk management
+    - The process of identifying and evaluating potential risks and issues that could impact a project
+  + Risk management provides an understanding of 
+    > What could go wrong
+    > Who you'll need to consult
+    > How the risk could be mitigated
+
+# Stanton: Managing my first project
+
+# Phases of risk management
+  + Steps of risk management:
+    1. Identify the risk.
+    2. Analyze the risk.
+    3. Evaluate the risk.
+    4. Treat the risk. 
+    5. Monitor and control the risk.
+
+# Uncover opportunities using risk management
+  + Some opportunities can be uncovered using risk management:
+    . Completing a milestone ahead of schedule
+    . Discounted materials 
+    . Availability of additional resources (people, investments, equipment)
