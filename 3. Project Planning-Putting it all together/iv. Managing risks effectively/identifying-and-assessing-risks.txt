@@ -1,12 +1,74 @@
 # Tools to help identify risks
+  > Brainstroming
+  + Cause-and-effect-diagram
+    - A diagram that shows the possible causes of an event or risk
+  + Scope creep
+    - Changes, growth, and uncontrolled factors that affects a project's
+      scope at any point after the project begins.
+  + Risk register
+    - A table or chart that contains a lists of risks
+  + Risk assesment
+    - The stage or rish management where qualities of a risk are 
+      estimated or measured.
+  + Probability and impact matrix
+    - A tool used to priotrize project risk
+  + Probability
+    - The likelihood that a risk will occur
+  + Inherent risk 
+    - The measure of a risk, calculated by its probability and impact.    
+  + Risk appetite
+    - The willingness of an organization to accept the possible 
+      outcomes of a risk
 
+# How to create a fishbone diagram
+  . Also known as Ishikawa diagrams or cause-and-effect diagrams
 
+  > Case study: Using a fishbone diagram to identify causes of risks  
+    1. Define the problem
+    2. Identify the categories
+    3. Brainstrom the causes
+    4. Analyze the causes
 
+# Types of risk
+  + Common risk types 
+    > Time risk
+      - The possibility that project tasks will take longer 
+        than anticipated to complete
+    > Budget risk
+      - The possibility that the costs of a project will increase due to
+        poor planning or expanding the project's scope 
+    > Scope risk
+      - The possibility that a project won't produce the results 
+        outlined in the project goals.
+  + External risk 
+    - Risks resulting from factors outside the company that you have
+      little to no control over
+  + Single point of failure
+    - A risk that has the potential to be catastrophic and halt
+      work across a project
+    . Power-out is an example
+  + Dependency
+    - A relationship between two project tasks, where the start or completion 
+      of one depends on the start or completion of the other
+    - Because dependencies are the links that connect one project task to
+      another, they are often a huge source of risk to a project.
+    > Internal dependencies :- Refer to dependencies within the project that
+      you and your team have control over
+    > External dependencies :- That you have no control over.
 
+# Identify potential project risks with gen AI
+  + Tips for using AI to help discover risks
+    - Ask the tool to identify what could help your project run better,
+      and things that could go wrong
+    - Challenge the tool to quickly generate and reformat content
+    - Review the list of risks carefully, and use your own judgement
+    - Come back to the tool to brainstrom mitigation plans
 
+# Managing single point of failure risks
 
-
-
-
-
-
+# Visualizing dependency relationships
+  + There are four types of task dependencies:
+    . Finish to Start
+    . Finish to Finish
+    . Start to Start
+    . Start to Finish
