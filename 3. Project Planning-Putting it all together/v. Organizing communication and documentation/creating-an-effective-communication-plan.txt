@@ -1,0 +1,57 @@
+# Introduction: Organizing communication and documentation
+
+# Why communication is critical
+  + Communication 
+    - The flow of information and innclude what is shared, how it's sharerd, 
+      and with whom.
+    - Id needs to happen throughout the entire life cycle of the project.
+  + Effective communication is:
+    . Clear
+    . Honest
+    . Relevent
+    . Frequent
+  + Types of communication:
+    . Meetings
+    . Emails
+    . Phone calls
+    . Written documents
+    . Formal presentations
+
+# Tips for effective communication
+
+# Starting a communication plan
+  + Communication plan  
+    - Organizes and documents the process, types, and espectations of 
+      communication for the project
+  + We have to consider the following points, when communicate:
+    1. What needs to be communicated?
+    2. Who needs to communicate?
+    3. When communication needs to happen?
+    4. Why and how to communicate?
+    5. Where the information being communicated is stored?
+
+# Developing a communication plan
+  + Who
+  + What
+  + Why
+  + How
+  => Modes of information processing:
+    . Viduals
+    . Listening
+    . Readings and analysis
+    . Talking with others
+
+# Best practices for building a communication plan
+  + Tips for creating your communication plan 
+    => Identify, identify, identify
+      Before you begin creating the plan, answer these questions to 
+      ensure that you have all of the relevant information:
+      . Project stakeholders
+      . Communication frequently and method
+      . Goals
+      . Barriers
+    => Document and develop
+      . Add a column for notes
+      . Use formatting to highlight any key details in the plan
+      . Ensure that the team can access your document
+      . Test your plan

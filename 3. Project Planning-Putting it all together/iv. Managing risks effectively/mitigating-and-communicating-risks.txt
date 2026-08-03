@@ -1,17 +1,27 @@
 # Risk mitigation strategies
+  + Common ways to deal with risk:
+    - Avoid the risk
+    - Accept the risk 
+    - Reduce or control the risk
+    - Transfer the risk
 
+  > Accept the risk by accepting the possibility that this risk can happen
+  > Reduce or control the risk by determining potential options to address it
+  > Transfer the risk by shifting the risk from one party to another
 
+# Building a risk management plan
+  + Risk Management plan
+    - Living document that contains information regarding high level
+      risks and the mitigation plans for those risks
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Communicating risks to stakeholders
+  > If you don't tell your stakeholders about important risks, 
+    they may be less equipped to help you if an issue arises.
+  > Failing to communicate risks to stakeholders can erode their trust
+    in you as the leader of the project.
+  > Communicate early and often with stakeholders about medium
+    and high-level risks
+  > How you communicate risks to stakeholders depends on the 
+    severity of the risk
+  > The serious nature of high-level risks requires a thorough
+    and direct level of communication
