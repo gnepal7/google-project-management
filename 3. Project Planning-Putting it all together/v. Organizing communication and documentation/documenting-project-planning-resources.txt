@@ -1,0 +1,37 @@
+# The value of project documentation
+  > Documentation storage and sharing is very important
+  > Having plans in one place makes communication quicker, 
+    easier, and more streamlined.
+  > Documentating and organizating plans provides visibility
+    and accountability.
+  > Not everyone needs full access to project documentation.
+  > Documentating plans in one place provides continuity.
+  + Knowledge management
+    - A way of ensuring that project data can be accessed in the 
+      future by others who need it for informing decisions or 
+      planning similar projects.
+  > Determine what kind of information to share with whom and when.
+  > Protect sensitive data from unquthorized access.
+  + Personally identifiable information (PII)
+    - Information that could be on its own to directly identify,
+      contact, or presisely locate and individual.
+  
+# Organizing project documentation
+
+# Chris: Organizing artifacts for a job interview
+
+# Dan: The importance of project documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
