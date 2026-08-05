@@ -1,0 +1,48 @@
+# The importance of tracking
+  + Tracking
+    - A method of following the progress of project activities
+  + Deviation
+    - Anything that alters your original course of action. Deviations
+      from the project plan can be positive or negative.
+  > Transparency is essential for accurate decision-making.
+  > Tracking keeps all team members and stakeholders in touch with
+    deadlines and goals.
+  > Tracking is also crucial for recognizing risks and issues that
+    can detail your progress.
+
+# Common items to track
+  + Commonly tracking items:
+    1. Project schedule
+    2. Status of action items, key tasks and activities
+    3. Progress towards milestone
+    4. Costs
+    5. Key decisions, changes, dependencies and risks to the project
+
+# Different tracking methods
+  + GANTT chart
+    - Useful for staying on schedule
+    - Useful for projects with many dependencies, tasks, activities, or milestones
+    - Useful for larger project teams
+    - Mainly used in waterfall methodology
+  + Roadmap
+    - Useful for high-level tracking of large milestones
+    - Useful for illustrating how a project should evolve over time
+  + Burndown chart
+    - Useful for projects that require a granular, broken-down look at each task
+    - Useful for projects where finishing on time is the top priority
+  + Many others
+
+# Belinda: tracking and managing a budget
+
+# Choose the right tracking method for your project
+
+# Pranjal: Managing multiple tracks
+
+# Project status reports
+  + project status reports are a powerful tool to:
+    - Improve and simplify communication across the team.
+    - Keep everyone, including key stakeholders, informed.
+    - Request more resources and support (if needed).
+    - Create structure and transparency by recording the project status in a centralized place.
+
+
