@@ -1,0 +1,54 @@
+# Why risks and changes occur
+  + Examples of project risks
+    . A contractor misses a deadline
+    . A new tool leads to communication breakdown
+    . Workload increases due to the implementation of an unforseen policy
+  + Types of changes
+    . New or changing dependencies
+    . Changing priorities
+    . Capacity and people
+    . Limitations on budget or resources
+    . Scope creep
+    . Force majeure (Pandamic or non-predicted situation)
+  
+# Identifying and tracking dependencies
+  + Dependencies 
+    - The links that connect one project task to another and are often
+      the greatest source of risk to a project
+  + Internal Dependencies
+    - The ralationship between two tasks within the same project
+  + External Dependencies
+    - Tasks that are reliant on outside factors, like regulatory
+      agencies or other projects
+  + Mandatory Dependencies
+    - Tasks that are legally or contractually required
+  + Discretionary Dependencies
+    - Tasks that could occur on their own, but the team chose
+      to make them reliant on one another
+
+  => Dependency Management
+    - The process or managing interrelated tasks and resources within the project 
+      to ensure the overall project is completed successfully, on time, and in budget
+    > Proper identification
+    > Recording dependencies
+    > Continuous monitoring and control
+    > Effcient communication
+
+# Techniques to help manage risks
+  + Risk Management
+    - The process of identifying potential risks and issues which could
+      impact a project, and evaluating and applying steps to address the 
+      effects of the identified risks and issues
+  + Risk Exposure
+    - A way to measure the potential future loss resulting form a 
+      specific activity or event
+  => ROAM Technique:
+    . Resolved, Owned, Accepted, Mitigated
+
+# Case study: Using risk management tools
+
+
+
+
+
+
