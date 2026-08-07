@@ -1,10 +1,35 @@
 # Escalating issues
+  + Escalation
+    - The process of enlisting the help of higher level project leadership or management to remove an obstacle, clarify
+      or reinforce proirities, and validate next stepd
+  > Act as checks ana balances
+  > Generate speedy decision making
+  > Reduce frustrations
+  > Encourage participation
 
+  => A project manager should escalate an issue as the first sign of critical problems in a project.
 
+  . Cause a delay on a major project milestone
+  . Cause budget overruns
+  . Can result in the loss of a customer
+  . Push back the estimated project completion date
+  + Trench war
+    - It occur when two peers or groups can't seem to come to an agreement, and neither party is willing to give in.
+  => A bad compromise occurs when two parties settle on a so-called solution but the end product still suffers.
 
+# Communicating changes to the team
+  + Timeout
+  + Re-define scope
+  + Communicate via email
+  + Retrospective
 
-
-
+# Writing an effective escalation email
+  + Effective escalation emails:
+    . Maintain a friendly tone
+    . State your connection to the project
+    . Explain the problem
+    . Explain the consequences
+    . Make a request
 
 
 

@@ -1,0 +1,35 @@
+# Introduction: Quality management and continuous improvement
+
+# Key quality management concepts
+  + Quality
+    - When you fulfill the outlined requirements for the deliverable and meet or exceed the needs
+      or expectations of your customers.
+  + Four concepts or quality management
+    => Quality standards
+      - Provide requirements, specifications, or guidelines that can be used to ensure that products,
+        processes, or services are fit for achieving the desired outcome.
+      > Reliability standards
+      > Usability standards
+      > Product standards
+    => Quality planning
+      - The actions of the project manager ir the team to establish a process for identifying and 
+        determining exactly which standards of quality are relevant to the project as a whole.
+      > Reliability
+    => Quality assurance
+      - Evaluating if your project is moving towards delivering a high-quality service or product.
+    => Quality control
+      - Involves monitoring project results and delivery to determine if they are meeting desired
+        results or not.
+
+# Recap: Quality management concepts
+
+
+
+
+
+
+
+
+
+
+
