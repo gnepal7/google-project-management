@@ -23,13 +23,51 @@
 
 # Recap: Quality management concepts
 
+# Fostering customer relationships with communication skills
+  + Negotiation
+  + Empathetic listening
+  + Trust-building
+  => Exhibit empathy for your client
+    - Understand their frustrations
+    - Address those frustrations
+    - Find a solution that's beneficial for both of you
 
+# Measuring customer satisfaction
+  + Feedback surveys
+    - A survey in which users provide feedback on features your product that they like of dislike
+  + User acceptance tests (UAT)
+    - A test that helps a business make sure a product or solution works for its users
+  + UAT agendas
+    . Welcome users and thank them for participating
+    . Present your product on them
+    . Start UAT test cases
+    . Walk users through a demonstration (video, book, report)
+    . Identify edge cases
+    . Recap finding, identify, prioritize which 
 
+# Ensuring accessibility during feedback collection
+  . Offer to provide accommodations
+  . Examine the space with an accessibility lens
+  . Check that the systems you are using are fully accessible
+  . Make accessibility part of the conversation from the beginning 
+  > Web Content Accessibility Guidelines- WCAG
 
+# User acceptance testing: Goals, best practices, and management
+  + The goals of UAT
+    - Demonstrate that the product, service, or process is behaving in expected ways in real-world scenarios. 
+    - Show that the product, service, or process is working as intended.
+    - Identify issues that need to be addressed before project completion.
+  + Best practices for effective UAT
+    . Define and write down your acceptance criteria
+    . Create the test cases for each item that you are testing
+    . Select your users carefully
+    . Write the UAT scripts based on user stories
+    . Communicate with users and let them know what to expect
+    . Prepare the testing environment for UAT
+    . Provide a step-by-step plan to help guide users through the testing process
+    . Compile notes in a single document and record any issues that are discovered
+  + Managing UAT feedback
+    . Bugs or issues
+    . Change requests
 
-
-
-
-
-
-
+# Sue: The importance of understanding customer needs
