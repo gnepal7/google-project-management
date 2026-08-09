@@ -1,0 +1,27 @@
+# The purpose of a retrospective
+  + Retrospective 
+    - A workshop or meeting that gives project teams time to reflect on a project
+  + Three main purposes of retrospectives:
+    . Encourage team building
+    . Facilitate improved collaboration
+    . Promote positive changes
+  + Reasons to hold a retrospective:
+    . Missed deadlines of expectations
+    . Miscommunications between stakeholders
+    . Reached end of a sprint
+    . Project launches and landings
+    . Record key lessons that other people can learn from
+  + Retrospective best practices
+    => Changing perepective 'you' to 'we'
+    > Ensure discussion is blameless
+    > Reflect on positive aspects of the project as well as the negatives
+    
+
+
+
+
+
+
+
+
+

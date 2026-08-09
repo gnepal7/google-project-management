@@ -1,1 +1,35 @@
+# Continuous improvement and process improvement
+  + Process improvement
+    - The practice of identifying, analyzing, and improving existing process to enhance the performance 
+      of your team and develop the bese practices, or to optimize consumer experiences.
+
+# Data-driven improvement frameworks
+  + Data-driven improvement frameworks
+    - Techniques used to make decisions based on actual data
+  > DMAIC
+    . Define
+    . Measure
+    . Analyze
+    . Improve 
+    . Control 
+  > PDCA
+    - A four-step process that focuses on identifying a problem, fixing that issue, assessing whether
+      the fix was successful, and fine-tuning the final fix.
+    . Plan 
+    . Do : fix the problem
+    . Check : about progresses
+    . Act : fine tune the fix 
+  > These helps to:
+    . Identify issues
+    . Reduce errors
+    . Optimize your processes
+
+# Differentiating projects from programs
+
+# Jacob: Cultivating a continuous improvement mindset
+
+
+
+
+
 
