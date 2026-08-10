@@ -16,12 +16,11 @@
     > Ensure discussion is blameless
     > Reflect on positive aspects of the project as well as the negatives
     
+# Conducting a retrospective
+  > Maintain a positive tone throughout the retrospective
+  > The retrospective should be considered a positive experience, where team 
+    members feel comfortable sharing their feedback.
+  > be consider about team outside of your own.
+  => Tools can be use for conducting retrospective
 
-
-
-
-
-
-
-
-
+# Gernot: Using retrospectives to get back on track
