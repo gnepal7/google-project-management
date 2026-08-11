@@ -1,14 +1,32 @@
 # Introduction: Data-informed decision-making
 
+# The value of data
+  + Data
+    - Data is a collection of facts or information
+  + Benefits of using data  
+    . Make better decisions
+    . Solve problems
+    . Understand performance
+    . Improve processes
+    . Understand your users
 
+# Common types of project data
+  + Metric
+    - A quantifiable measurement that is used to track and asses a business objective
+  + Types of metrics:
+    > Productivity metric
+      - Metrics that allow you to track effectiveness and efficiency of your project
+      . Miliestones
+      . Tasks
+      . Projections
+      . Duration
+    > Quality metric
+      - Metric that relate to achieving acceptable outcomes      
+      . Number of changes
+      . Issues
+      . Cost variance
+  + Tools
+    > Project management : Workfend, jira
+    > Data management : tableau
 
-
-
-
-
-
-
-
-
-
-
+# Common data metrics for project management

@@ -1,0 +1,47 @@
+# Discerning important data
+  + Signal 
+    - An observable change that determine the overall health of the project
+      and identify early signs that something isn't quite right.
+    
+# Data ethics considerations
+  => Businesses apply data ethics practices so they can:
+    . Comply with regulations
+    . Show that they are trustworthy
+    . Ensure fair and reasonable data usage
+    . Minimize biases
+    . Develop a positive public perception
+  + Data privacy
+    - Data privacy deals with the proper handling of data. This includes the purpose of data collection and processing, privacy 
+      preferences, the way organizations manage personal data, and the rights of individuals.
+    - You can help ensure the privacy of data collected from users, stakeholders, and others for your projects by:
+      . Increasing data privacy awareness
+      . Using security tools
+      . Annoying data
+        > Names
+        > Telephone numbers
+        > SSN: Social security numbers
+        > Emails
+        > Addresses
+        > Photos
+        > Account numbers
+  + Data bias
+    - Data bias is a type of error that tends to skew results in a certain direction
+    => Types of biases
+      . Sampling bias
+      . Interpretation bias
+      . Confirmation bias
+
+# Using data analysis to inform decisions
+  + Quantitive data
+    - Statistical data
+  + Qualitative data
+    - Subjective qualities that can't be measured with numerical data
+
+# The six steps of data analysis
+  + Steps involved in data analysis:
+    1. Ask
+    2. Prepare
+    3. Process 
+    4. Analyze
+    5. Share
+    6. Act
