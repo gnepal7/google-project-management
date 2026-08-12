@@ -1,0 +1,35 @@
+# Presenting data to tell a project's story
+  + 6 steps of storytelling
+    1. Define your audience
+    2. Collect the data
+    3. Filter and analyze the data
+    4. Choose a visual representation
+    5. Shape the story
+    6. Gather your feedback
+
+# Data visualization tools
+  + Dashboard
+  + KPI
+  + Burndown chart
+  + Column chart
+  + Pie chart
+  + Infographics
+    - visual representations of information or data intended to present information quickly and clearly
+
+# Different ways to visualize data
+  + Visualizing your data
+  
+  + Show relationships
+    - A scatter plot, sometimes referred to as a scatter chart or scatter graph, uses dots to represent 
+      values for two different variables.
+  + Comparing values
+    - Bar graphs use size contrast to compare two or more values. 
+  + Demonstrating composition 
+    - Pie charts show us the composition of something.
+  + Analyzing trends and behaviors
+    - Line graphs are a great tool for visually showing change over time, but they can be paired with other factors, too.
+
+# Effective presentation techniques
+  + Be presise
+  + Identify problems
+  + Be memorable
