@@ -33,3 +33,11 @@
   + Be presise
   + Identify problems
   + Be memorable
+
+# Making presentations accessible
+  > Create clear, simple slides
+  > Add alt text for images, drawings, or diagrams
+  > Use text for critical information
+  > Provide captions for audio or video recordings
+  > For contrast text and background should be good
+  > Share content in advance
