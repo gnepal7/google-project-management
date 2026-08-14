@@ -1,13 +1,27 @@
 # Introduction: Leadership and influencing skills
 
+# The necessity of project teamwork
+  + Team 
+    - A group of people who plan, solve problems, make decisions, 
+      and review progress in service of a specific project or objective.
+  + Teamwork 
+    - An efective, collaborative way of working in which each person is 
+      committed to end heading towards a shared goal
+    > It fosters creativity
+    > Encourages accountability
+    > Helps you get stuff done
 
-
-
-
-
-
-
-
-
-
-
+# The factors that impact team effectiveness
+  + 5 Factors
+    > Psychological safety
+      - An individual's perception of the consequences of taking
+        an interpersonal risk
+    > Dependability
+      - Team members are raliable and complete their work on time
+    > Structure and clarity
+      - An individual's understanding of job expectations, knowledge of how to meet those
+        expectations, and the consequences ot their performance
+    > Meaning
+      - Finding a sense of purpose either in the work itself or in the results of that work
+    > Impact
+      - The beliefe that the results belief to change
