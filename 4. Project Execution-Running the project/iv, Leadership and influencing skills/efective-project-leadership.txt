@@ -18,12 +18,39 @@
 # Emilio: Learning to lead
 
 # Team development and managing team dynamics
+  + Bruce Tuckman's stages of team development:
+    > Forming
+      . Team gets to know one another
+    > Storming
+      . Furstrations might emerge
+      . Project manager sholud focus to solve
+    > Norming
+      . Conflict is mostly resolved and team working together
+    > Performing
+      . Team works together seamlessly
+    > Adjourning
+      . Project wraps
+      . Team disbands
+      . Celebrate milestones
+    + Team dynamics
+      - The forces, both conscious and unconscious, that impact team
+        behavior and performance
+      > Its importance
+        . teams have individuals with differcnt skill sets, varying degrees of 
+          autonomy, and competing proirities
+        . Create a collaborative and psychologically safe environment
+        . Helps to movite team always
 
+# Rowena: Delegating the details
 
+# Ethical and inclusive leadership
+  + Ethical leadership
+    - A form of leadership that promotes and values honesty, justice,
+      respect, community and integrity
+  + Promiting ethical leadership
+  > Inclusive leadership
+    - aims to put what we've heard into action to create an environment that encourages and 
+      empowers each and every member of our community.
+  > Inclusion
 
-
-
-
-
-
-
+# A framework for ethical decision-making
