@@ -12,10 +12,34 @@
     . Resisting compromise
     . Failing to establish credibility, frame for common ground, 
       or connect emotionally
-    .
 
+# Using sources of power to influence
+  + Organizational sources of power  
+    > Role
+    > Information
+    > Network
+    > Reputation
+  + Personal sources of power
+    > Knowledge
+    > Expressiveness/Communication
+    > History
+    > Character
 
+# Chris: Influencing others by demonstrating project impact
 
+# Creating an effective influencing statement
+  + What is influencing?
+  + Conger’s four steps
+    Jay A. Conger identified four steps to effectively influence:
+    1. Establish credibility
+    2. Frame for common ground
+    3. Provide evidence
+    4. Connect emotionally 
+  + Key takeaway
+    > Provided evidence from company surveys to set the stage for her proposal.
+    > Framed for common ground by noting how a new onboarding process might increase employee productivity.
+    > Established credibility by outlining her previous experience with launching similar processes.
+    > Connected emotionally by encouraging her audience to reflect on past experiences they may have endured as a new hire. 
 
 
 
