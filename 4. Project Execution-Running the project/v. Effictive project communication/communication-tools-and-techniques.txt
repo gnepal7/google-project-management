@@ -1,13 +1,39 @@
 # Introduction: Effective project communication
 
+# Communicating in different ways
+  + Project document responsibilities
+    . How documents get used
+    . Who has access to documents get updates
+    . How often documents get updated
+    > Emails and messages
+    > Meeting, phone calls
 
+# Principles of effective email writing
+  + Principles of effective email writing are:
+    . State what you want clearly.
+    . Keep the content short and concise.
+    . Structure your writing.
+    . Check grammar, punctuation, and spelling.
+  + Structure your writing
+    . Use bullets
+    . Use labels
+    . Add hyperlinks
+    . Write a strong topic sentence
+  + Best practices for using AI
+    . Always check your organization's AI policy
+    . Leverage the prompting framework to generate better emails
+      > Specify the task
+      > Provide necessary context
+      > Include references as examples
+      > Evaluate your output
+      > Iterate for better results
+    . Utilize AI to generate templates
+    . Customize for your audience
+    . Use AI responsibly
+    . Always review AI outputs for accuracy
 
-
-
-
-
-
-
-
-
-
+# Common communication tools 
+  + Emails and messaging
+    . Slack, google chat, zoom, discord, google drive, asana
+  + Virtual meetings
+  + Phone calls
