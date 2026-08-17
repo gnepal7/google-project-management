@@ -1,1 +1,43 @@
+# How to organize effective meetings
+  + Effective meeting
+    1. Structured
+      . Start and end on time
+      . Carefully selected attendees
+      . Prioritized topics
+      . Designated note-taker
+    2. Time boxing
+      . Setting a time limit
+    3. Intentional
+      . Clearly stated plan
+    4. Collaboration 
+      . Active listening, respect each-other
+    5. Inclusivity 
+      - The practice of policy of including people who might otherwise be excluded or marginalized. 
 
+# Facilitating inclusive and accessible meetings
+  + Creating an inclusive environment
+    1. Formalize initial check-ins for the group that build understanding and ensure everyone knows their input is needed.
+    2. Give everyone your full attention
+    3. Help all participants to be heard
+    4. Help participants feel comfortable sharing different perspectives
+    5. Use images that reflect the diversity of the world
+  + Making meetings accessible to everyone
+    - When planning your meetings, you should consider the needs of people experiencing the following types of disabilities:
+    . Visual impairments and blindness
+    . Hearing loss and deafness
+    . Mobility disabilities
+    . Neurological disorders
+
+# Checklist for productive meetings
+
+# Common types of project meetings
+  + Types of project management meetings
+    > Project kick-off
+    > Status updates
+      . Task updates
+      . Schedule status
+      . Budget status
+      . Current or anticipated issues
+      . Action items
+    > Stakeholder reviews
+    > Project reviews
