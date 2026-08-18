@@ -1,1 +1,42 @@
+# The closing process for clients and stakeholders
+  + Steps to conducting a closing process after each phase or milestone:
+    . Refer to prior documentation
+      - Statement of work (SOW)
+      - Request for proposal (RFP)
+      - Risk register
+      - RACI chart
+    . Put together closing documentation
+    . Conduct administrative closure of the procurement process
+    . Make sure all stakeholders are aware that a phase, or project, is ending
+    . Execute necessary follow-up work
+    > Provide the necessary training, tools, documentation, and capability to use your product
+    > Ensure that the project has satisfied its goals and desired outcomes
+    > Document acceptance from all stakeholders
+    > Review all contracts and documentation
+    > conduct a formal retrospective
+    > Disband ant thank the project team
+  + Impact reporting
+    - Presentation that is given at the end of a project for key stakeholders
 
+# Demonstrating project impact to stakeholders
+  + Use metrics to showcase your results
+    Examples of common metrics you might include to demonstrate a positive impact could include: 
+      . Improvement in schedule performance
+      . Revenue growth
+      . Positive return on investment (ROI)
+      . Increased external user counts
+      . Increased percentage of internal users 
+      . Cost vs. margins
+      . High percentage of customer satisfaction 
+      . Reduction in overhead
+      . Reduction in technical issues
+      . Time saved
+  + Prepare an effective impact report presentation
+      . Be concise
+      . Understand your audience
+      . Use visuals
+      . Describe your learnings
+      . Keep your stakeholders engaged
+      > Show
+      > Storytell
+      > Engage
