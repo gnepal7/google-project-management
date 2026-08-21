@@ -1,0 +1,33 @@
+# Introduction to Scrum
+  + Scrum
+    . The word 'scrum' refers to the game rugby
+  + Product Backlog
+    - The central artifact in scrum, where all possible ideas, deliverables, 
+      features, or tasks are captured for the team to work on
+  + Sprint
+    - A time-boxed iteration in Scrum where work is done
+    - It can be 1 to 4 weeks
+  + Daily scrum
+    - A meeting of 15 or fewer minutes every day of the sprint
+  => Scrum master
+  => Product owner
+
+# The founding principles of Scrum
+  + characteristics of a team help to move the Scrum downfield. Those are:
+    . Built-in-instability
+    . Self-organizing teams
+    . Overlapping development phases
+    . Multi-learning
+    . Subtle control
+    . Organizational transfer of learning
+
+# Introduction to Kanban, XP, and Lean
+
+
+
+
+
+
+
+
+
