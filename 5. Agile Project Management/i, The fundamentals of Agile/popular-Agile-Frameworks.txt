@@ -22,12 +22,24 @@
     . Organizational transfer of learning
 
 # Introduction to Kanban, XP, and Lean
+  + Kanban
+    - Means kan = sign ban = board in Japanese language
+  + XP : extreme programming
+    - Aims to improve product quality
+    - Test first development
+    - Activities: Designing, Coding, Testing, Listening
+    - Innivatove practices: Pair programming, Continouns integration and refactoring
+  + Lean
+    - define value
+    - Map value stream
+    - Create flow
+    - Establish pull
+    - Pursue perfection
 
+# Blending project management approaches
 
-
-
-
-
-
-
-
+# The Spotify model
+  > You must always be able to adapt based on your team’s preferences and goals.
+  > Always examine the needs of your project and organization.
+  > Don’t be afraid of trial and error.
+  > You should never consider yourself done improving.
