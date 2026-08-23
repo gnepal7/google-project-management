@@ -1,1 +1,26 @@
 # Introduction: Scrum 101
+  > Three pillars
+  > Five values
+
+# The three pillars of Scrum
+  + Iterative
+  + Incremental
+  + Empiricism
+
+  > Transparency
+  > Inspection
+  > Adaptation
+
+# The five values of Scrum
+  1. Commitment
+    - Personally committing to achieving the goals of teams or projects
+  2. Courage
+    - Team members to be couraged
+  3. Focus
+    - Necessary to focus on sprints / solutions
+  4. Openness
+    - Team members and stakeholders should be focus
+  5. Respect
+    - should respect the opinions, skills, and values
+
+# The Scrum Guide

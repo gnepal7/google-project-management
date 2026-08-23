@@ -1,0 +1,47 @@
+# Essential Scrum roles
+  + Mission
+  + Product vision
+
+  > Scrum Master
+    - build the things fast
+  > Product Owners
+    - build the right things
+  > Development team 
+    - build the things right
+  => Scrum teams are cross-functional
+  => Scrum teams are self-organizing
+
+# Traits of an effective Scrum Master
+  . Scrum master is same as project manager
+  + Responsibilities
+    - Coaching team members
+    - facilitating scrum events
+    - Helping the team remove blockers
+  => Must have:
+    1. Organizational skills
+    2. Supportive leaders
+    3. Facilitate productivity and collaboration
+    4. Coash team members
+    5. Great communicators
+
+# Pete: What makes an effective Scrum Master
+
+# Traits of an effective Product Owner
+  + Product owner should:
+    . Customer-focused
+    . Desisive
+    . Optimistic and positive
+    . Flexible
+    . Collaborative
+    . Available
+
+# Traits of an effective Development Team
+  + Traits of the development team
+    . Cross functional
+    . Self-organizing
+    . Supportive
+    . Customer-oriented
+
+# Understanding Scrum Team roles
+
+# Characteristics of a great Scrum Team
