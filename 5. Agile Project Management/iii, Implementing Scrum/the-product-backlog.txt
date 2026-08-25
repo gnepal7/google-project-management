@@ -1,0 +1,47 @@
+# Introduction: Implementing Scrum
+  + 5 Scrum events
+    . Sprint
+    . Sprint planning
+    . Daily scrum
+    . Sprint review
+    . Sprint Retrospective
+
+# Building a Product Backlog
+  + Product backlog
+    - The single authoritative source for things that a teak works on. It contains all of the features requirements, 
+      and activities associated with deliverables to achieve the goal of the project.
+  => 3 Key features
+    1. Living artifact
+    2. Owned and adjusted by the product owner
+    3. Prioritized list of features
+  => Product backlog contains the description, value, order, and estimate of the product.
+
+# Product Backlog: The Scrum Guide overview
+
+# Writing user stories 
+  + User stories
+    - Short, simple descriptions of a feature told from the perspective of the user
+    => Three part : user, action, benefit
+    > INVEST framework
+      I = Independent
+      N = Negotiable
+      V = Valuable
+      E = Estimable
+      S = Small
+      T = Testable
+
+# The elements of user stories and epics
+  + User stories
+    > When writing user stories, you will need to include the following elements:
+      . User persona
+      . Definition of done
+      . Tasks
+      . Any feedback already provided
+  + Epics
+    - An epic’s purpose is to help manage related user stories. 
+    - Epics allow you to keep track of large, loosely-defined ideas
+
+# Activity Exemplar: Create a Product Backlog
+
+# Create Product Backlogs using work management tools
+
