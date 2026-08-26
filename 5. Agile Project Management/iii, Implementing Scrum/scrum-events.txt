@@ -1,1 +1,19 @@
+# Introduction to the Sprint
+  - Sprints also called iteration
+  + The scrum guide
+    . The sprint
+    . Sprint planning
+    . Daily scrum
+    . Sprint review
+    . Sprint retrospective
+
+# The Sprint: The Scrum Guide overview
+
+# Sprint planning
+  + Definition of done
+  + The sprint backlog
+
+
+
+
 
