@@ -45,3 +45,27 @@
 
 # Create Product Backlogs using work management tools
 
+# Backlog refinement and effort estimation
+  + Backlog refinement
+    - The act of keeping backlog described, estimated, and prioritized so that the scrum team can operate effectively
+  => T-shirt sizes
+  => Story points
+    - Fibonacci sequence 0, 1, 1, 2, 3, 5, 8, 13, 21, ....
+
+# Agile effort estimation techniques
+  - Some examples of Agile estimation techniques are: 
+    1. Planning Poker™
+    2. Dot Voting
+    3. The Bucket System
+    4. Large/Uncertain/Small
+    5. Ordering Method
+    6. Affinity Mapping
+  - Characteristics of effective estimation
+    . Avoids gathering false precision of estimates
+    . Avoid anchoring bias
+    . Promotes inclusivity
+    . Leads to effort discovery
+
+# T-shirt sizes and story points
+
+# Add effort estimates using work management tools
