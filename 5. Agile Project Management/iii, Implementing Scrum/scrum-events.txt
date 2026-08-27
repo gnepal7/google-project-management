@@ -13,7 +13,45 @@
   + Definition of done
   + The sprint backlog
 
+# Create and manage Sprints using work management tools
 
+# Plan sprint retrospectives using AI
 
+# The Daily Scrum and Sprint Review
+  + Stand-up : 15 minutes, everyday in the same place
+  + Sprint review : 
+    - A meegint with the entire scrum team where the product demonstrated in order to 
+      determine which aspects are finished ans which aren't
+  + Product increment
+  + Releasable
+  + Minimum viable Product
+  
+# Sarah: The benefits of a Daily Standup
 
+# Releasable Increment versus Minimum Viable Product
+  + Potentially releasable product increment
+    - Three features on the product backlog could be: 
+      1. Presenting information about available pets  
+      2. Rating potential matches based on adopters
+      3. Allowing user to contact the adoption center
 
+# The Sprint Retrospective
+  + Sprint Retrospective
+    - An essential meeting of up to 3 hours for the Scrum team to take a step back, reflect,
+      and identify improvements about how to work together as a team
+    => Blamelessness
+    => Participation is key !
+    => Balance the negative with the positive
+    => Act on it !
+
+# Sprint Retrospectives: Pitfalls and best practices
+  + Pitfalls
+    > Avoid too many gimmicks
+    > Try not to only focus on the negative
+    > Avoid changing processes after each retrospective
+  + Best practices
+    > Ask open-ended, probing questions
+    > Consider diverse styles of communication and participation
+    > Cover the many aspects of the sprint when conducting a retrospective
+
+  # Activity Exemplar: Recap a Sprint Retrospective

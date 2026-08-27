@@ -1,0 +1,15 @@
+# Velocity and burndown charts
+  + Velocity
+    - The measure of how many points the team burns down in a given sprint.
+    
+
+
+
+
+
+
+
+
+
+
+
