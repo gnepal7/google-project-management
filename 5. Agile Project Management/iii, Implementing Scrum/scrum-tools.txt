@@ -2,14 +2,26 @@
   + Velocity
     - The measure of how many points the team burns down in a given sprint.
     
+# Interpreting velocity: Dos and Don'ts
 
+# Utilizing Kanban boards
+  + Visualization
+  + Flowchart
+  + WIP limit : Work in process
 
+# Practice: Using a Kanban board : process test
 
+# Tools for transparency and collaboration
+  > Jira
+  > Asana
+  > Trello
+  + Types or Tools
+    - Documentation word processing
+    - Spreadsheets
+    - Presentations
+    - Video conferencing
+    - Team and online chat
 
+# Wrap-up
 
-
-
-
-
-
-
+# Optional: Agile in a nutshell

@@ -1,0 +1,50 @@
+# Introduction: Applying Agile in the organization
+
+# Maximizing value-driven delivery
+  + Value-driven delivery
+    - means you and your team are focused on delivering a product of high value.
+    > Build the right thing
+      - What customer really want
+    > Build the thing right
+      - Ensure that team is developing the product what is required
+    > Run it right
+      - How customer can easily interact with the product after launch?
+
+# Case study: Forming a value-driven task force
+
+# Camron: How Agile can drive value
+
+# Components of a value roadmap
+  + Value roadmap
+    - An agile way of mapping out the product development process
+    - Can ba used for all types of businesses
+    - A guide that demonstrates
+      . Where to go 
+      . How to get there
+      . What to accomplish along the way
+    => Key components 
+      > Product vision
+      > Product roadmap
+      > Release plan
+
+# Product roadmaps: Benefits, pitfalls, and best practices
+
+# Creating an effective value roadmap
+  + Tips for creating the product roadmap
+  + Capacity and velocity
+
+# Responding to change over following a plan
+  + 3 ways to 
+    - Identifying a needed change 
+      . Scope
+      . Time
+      . Cost or resources
+    - Deciding to make the change
+      . Identify the 'decider'
+      . Develop and share what factors are important to the decision
+      . Openly discuss the benefits and costs of the decision
+    - Implementing the change
+      . Document the change and decision-making process
+      . Capture the change in any affected artifacts
+      . Share the change with all affected stakeholders
+      . Monitor the change for a certain amount of time
