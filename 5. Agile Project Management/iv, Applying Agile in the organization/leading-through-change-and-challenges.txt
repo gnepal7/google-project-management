@@ -1,0 +1,81 @@
+# Facilitating organizational change
+  + Organizational culture
+    - 
+  + Change manatement
+    - Change takes patient presistence
+  + Creating a sense of ownership
+  + Creating a sense of urgency    
+
+# The influencer change framework
+  + Three keys to influence
+    . Clarify measurable results
+    . Find vital behaviors
+    . Use the six sources of influence:
+      1. Personal motivation
+      2. Personal ability
+      3. Social motivation
+      4. Social ability
+      5. Structural motivation
+      6. Structural ability
+
+# Coaching an Agile team
+  + Design the 'plays' with the team
+  + Provide feedback to the team
+  + Celebrate and learn with the team
+
+# Coaching versus managing in Agile
+  + Managing, it include:
+    - Onboarding and orienting new employees
+    - Conducting meetings
+    - Delegating tasks and assignments
+    - Monitoring progress and performance against those tasks
+    - Making high-level decisions
+  + Coaching: There are a few principles to keep in mind when coaching: 
+    1. Motivate
+    2. Support
+    3. Encourage and appriciate
+
+# Agile team challenges
+  + Value delivery  
+    - Missing expected delivery dates
+    - Burned out
+    - Too many items 'in progress'
+    => to solve:
+      . More demos of the solutions
+      . Use retrospective
+      . Focus on main priority of task
+  + Bussiness collaboration
+    - Overwhelmed with critical feedback
+    - 'us vs them' mentality
+    => to solve:
+      . Address ctirical feeaback
+      . Conduct a solution design sprint
+      . Ensure changes to the backlog are introduced only in between sprints
+  + Team dynamics and culture
+    - Low team morale
+    - Lots of conflicts
+    - Low conflict 
+    => to solve:
+      . Run a team brainstrom session
+      . change up the workflows
+      . Try retrospective (6 hats thinking techniques)
+
+# Common Agile coaching challenges
+  + Common coaching challenges
+    1. Managing s stable product roadmap
+      > Product ambition
+      > Procuct assimptions
+    2. Incomplete implementation of scrum
+      > Partially implementation
+      > Loss of clear roles and responsibilities
+      > Tempted to skip some events
+      > Not providing coaching and practices
+    3. Experiencing a lack of stability within the team
+      Solutions:
+        . Have a quick onboarding process
+        . Use 'prir programming'
+        . Have shorter sprints
+
+
+
+
