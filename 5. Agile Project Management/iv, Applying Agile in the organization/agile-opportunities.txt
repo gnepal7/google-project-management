@@ -1,0 +1,63 @@
+# The evolution of Agile
+  + VUCA
+  + DevOps
+    - An organizational and cultural movement that aims to increase software 
+      delivery velocity, improve service reliability, and build shared ownership
+      amont software stakeholders
+    - Aims to shorten the product life cycle
+  + Bussiness agility
+
+# The relationship between Agile and DevOps
+
+# Scaling Agile
+  + Scaled Agile Framework (SAFe)
+    - It is like most Agile practices, is founded on a set of core values:
+      1. Alignment
+      2. Built-in quality
+      3. Tranaparancy
+      4. Program execution
+      5. Leadership
+  + Scrum of Scrums
+    - Group of 12 member
+    - Meetings are held once a week, twice a week, or daily
+    - Scrum master acts as 'ambassador'
+  + Large-Scale Scrum (LeSS)
+    - It grew out of more than 600 experiments 
+    - The ten LeSS principles are:
+      1. Large-Scale Scrum (LeSS) 
+      2. Empirical process control
+      3. Transparency
+      4. More with LeSS
+      5. Whole-product focus
+      6. Customer-centric
+      7. Continuous improvement towards perfection
+      8. Systems thinking
+      9. Lean thinking
+      10. Queuing theory
+  + Disciplined Agile Delivery (DAD)
+    - DAD organized into four 'layers'
+      . Foundations
+      . Disciplined DevOps
+      . Value Streams
+      . Disciplined Agile Enterprise (DAE)
+  + The Spotify model
+    - Some of key components are:
+      . Swuads
+      . Tribes
+      . Chapters
+      . Guilds
+
+# Jez: My thoughts on Agile
+
+# Agile project management opportunities
+  + Agile Project manager
+  + Scrum master
+  + IT agile project manager
+  + DevOps Project manager
+  => How to introduce Agile to a team
+    . Start small
+    . Listen to feedback
+    . Be strategic
+    . Find alles
+
+# Reflect and connect with your peers
