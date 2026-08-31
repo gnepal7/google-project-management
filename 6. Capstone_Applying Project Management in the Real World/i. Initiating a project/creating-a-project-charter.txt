@@ -1,0 +1,23 @@
+# Project charters: Purpose and components
+  + Project charter
+    - A formal document that clearly defines the project and outlines
+      the necessary details to reach the project's goals.
+    => A project charter  
+      . Helps organize vital project information
+      . Helps create a framework for the work that needs to be done 
+      . Helps communicate those details to the necessary people
+      . Is useful as a reference
+    => The project charter contains (Components)
+      . Summary
+      . Goals 
+      . Deliverables
+      . Scope
+
+# Project charters: Stakeholder alignment
+
+
+
+
+
+
+
