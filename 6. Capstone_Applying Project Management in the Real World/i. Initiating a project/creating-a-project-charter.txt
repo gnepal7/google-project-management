@@ -14,7 +14,21 @@
       . Scope
 
 # Project charters: Stakeholder alignment
+  > A project charter is also an alignment tool
+  > Misalignment may cause misunderstanding among the stakeholders and development team.
 
+# Project charters: Drafting SMART goals
+  + SMART goals
+  => Project goals are desired outcomes of a project
+    . S = Specific
+      In Subjective words:
+        - Bigger
+        - Better
+        - Faster
+    . M = Measurable
+    . A = Attainable
+    . R = Relevant
+    . T = Time-bound
 
 
 
