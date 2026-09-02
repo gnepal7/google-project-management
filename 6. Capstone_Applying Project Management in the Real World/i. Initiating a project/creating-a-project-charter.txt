@@ -33,9 +33,12 @@
       > Can it be done?      
     . R = Relevant
     . T = Time-bound
+# Project charters: Defining scope, benefits, and costs
+  + Scope
+    - Boundaries
+  + Benefits
+    - The expected gains of a project
+  + Costs
+    - The money spent on project tasks as well as prices of things like time, resources, labor.
 
-
-
-
-
-
+# Afsheen: Initiating a project effectively
