@@ -26,7 +26,11 @@
         - Better
         - Faster
     . M = Measurable
+      > Benchmarking
+      > Table turnover rate
+      > Prime cost
     . A = Attainable
+      > Can it be done?      
     . R = Relevant
     . T = Time-bound
 
