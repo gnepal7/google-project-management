@@ -1,0 +1,39 @@
+# Introduction: Building out a project plan
+
+# Identifying project tasks: Analyzing documentation
+  + Project plan
+    - Helps document the scope, tasks, milestones, budget, and overall
+      activities in order to keep the project on track.
+  + Project schedule
+  + Milestones 
+  + Tasks 
+  > Emails
+  > Previous project plans
+
+# Tips for defining project tasks
+  . Define project tasks in one or two sentences
+  . Look at project task dependencies
+  . Enlist help from team members
+  . Define project tasks by the amount of time they will take to complete
+  . Identify project tasks by their “done” factors
+
+# Identifying project tasks: Conducting online research
+  + Domain knowledge
+    . Supporting knowledges for intended project
+  + Project research (online)
+    - News coverage of similar projects
+    - Search on topics related to your project
+    - Similar project in other industries
+    - Review the list then...
+
+
+
+
+
+
+
+
+
+
+
+
