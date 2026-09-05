@@ -1,19 +1,44 @@
 # Time estimation: Asking the right questions
   + Strategies
     . Check their understanding of the task
-    . Ask for estimates of the substeps and make note of them
+    . Ask for estimates of the sub steps and make note of them
     . Discuss the assumptions suggested by expert
     . Ask the task expert how the adopted method is effective
     . Compare the accurate estimation with accurate time taken to be completed the project
 
+# Time estimation: Three-point estimating
+  + Three-point estimating
+    - It uses optimistic and pessimistic calculations, meaning calculations based on the best-case and the worst-case scenarios. 
+    - Each task receives three estimates:
+      . Optimistic
+      . Most likely
+      . Pessimistic
+    - Each estimate indicates the amount of time a task will take under that category
 
+# The three-point estimating technique
+   . Optimistic
+    > Assumes the best case scenario that issues will not occur
+   . Most likely
+    > Assumes some issues might occur and based on how long the task usually takes under normal circumstances
+   . Pessimistic
+    > Assumes the worse case scenario that issues will definitely occur
 
+# Time estimation: Applying confidence level ratings 
+  + Confidence level rating
+    > High : confidence of completion on estimated time
+    > Low : no sure
+    > Ways to determine a confidence rating:
+      . Use a three-point technique
+      . Poll your team :- check the percentage of completing level, 
 
+# Time estimation: Effective time estimate negotiation 
+  . Ask open-ended questions like:
+    > How would you like me to proceed?
+    > How can we solve this problem?
+    > What can I do to help?
+  . Focus on on interest, not positions
+  . Present mutually beneficial options
+  . Insist on using objective criteria
 
-
-
-
-
-
-
+# Time estimation: Negotiating with empathy
 
