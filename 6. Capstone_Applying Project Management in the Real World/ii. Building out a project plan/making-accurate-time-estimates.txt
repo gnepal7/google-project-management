@@ -41,4 +41,17 @@
   . Insist on using objective criteria
 
 # Time estimation: Negotiating with empathy
+  + Empathy 
+    - The ability to understand and feel what others are feeling
+  + Mocrimanaging
+    - When a manager too closely observes, controls, or continouosly reminds the people
+      they're managing of the work they've been assigned.
+  > Ways to bring empathy during conversation:
+    . Listen with curiosly
+    . Repeat what you think you heard
+    . Connect with their experience
+    . Recognize judgements
+    . Recognize buffering
+    . Avoid distractions
 
+# Torie: Practicing empathy as a program manager
