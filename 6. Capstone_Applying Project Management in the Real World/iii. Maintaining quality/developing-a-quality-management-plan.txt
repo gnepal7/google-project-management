@@ -14,16 +14,18 @@
     . Increasing collaboration and ongoing reviews
 
 # Defining quality standards
-
-
-
-
-
-
-
-
-
-
-
-
-
+  + Quality
+    - Making sure that you deliver what you say you will, and that you do it as efficiently as you can 
+  + Quality standard  
+    > Resources to consult:
+      . Project documents
+      . Conversations with experts and stakeholders
+      . Industry research
+  + Common quality standard categories
+    . Functionality
+    . Design
+    . Safety
+    . Productivity
+    . Ease of use
+    . Effectiveness
+    . Customer satisfaction
