@@ -1,1 +1,30 @@
+# Creating evaluation questions
+  + Quality assurance
+    => Some examples of quality assurance:
+      . Beta testing
+      . Internal checklists
+      . Feedback surveys
+  + Evaluation
+    => Reasons to use evaluation:
+      . To improve
+      . To judge
+      . To learn
+    => Evaluation process:
+      . Determine the ressons for evaluation
+      . Evaluation questions 
 
+# Determining evaluation indicators
+  . Clues
+  . Signs
+  . Markers
+
+# Developing a survey
+  + Survey development process
+    - Develop evaluation questions 
+    - Define your evaluation indicators
+    - Determine what type of survey to design and questions to ask
+    . Survey questions helps to evaluate
+    => Two types of survey questions:
+      > Open-ended
+      > Closed-ended
+        . Yes/No, True/False, Multiple choice, Scaled
