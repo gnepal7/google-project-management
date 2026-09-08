@@ -1,13 +1,21 @@
 # Delivering an evaluation presentation
+  + Considering your audiende
+    > What's the most meaningful to them?
+    > How much time do they have?
+  + Present the same data in different ways
+  + Create a detailed evaluation report
+    > Summary sheets
+    > Filter and analyse
+    > Full detailed report
 
-
-
-
-
-
-
-
-
-
-
-
+# Evaluation presentations: Components and tips
+  + What to include in your evaluation presentation:
+    . Introduction
+    . What is being evaluated and why
+    . Evaluation finding
+    . Conclusion with recommendations
+  + How to format your presentation 
+    > Additional tips
+      . Tailor communications to stakeholders
+      . Start with an interesting hook
+      . Use visuals throughout your presentation
