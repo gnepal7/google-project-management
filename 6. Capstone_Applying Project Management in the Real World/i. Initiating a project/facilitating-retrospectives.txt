@@ -4,15 +4,30 @@
     . Facilitate improved collaboration
     . Promote positive changes
     
+# Retrospectives: Encouraging participation
+  + Techniques to encourage participation:
+    . Establish a safe environment for the team
+    . Model the kind of participation you'd like to elicit from your team
+    . Post a group question and ask for individual responses
 
+# Retrospectives: Encouraging accountability
+  > Accountability 
+    . Encourages the team to think holistically
+  + Techniques to encourage accountability:
+    . Come prepared with specific challenges to discuss as a group
+    . Turn team complaints into SMART action items
+      SMART = specific, measurable, attainable, relevant, time-bound
+    . Push the team to idenfity its role in creaging a given challenge
+    . Detach the challenge being discussed from any specific person in the room
+  => Constructive Critism
 
+# Retrospectives: Addressing negativity
+  > Psychological safe
+  + Techniques for addressing negativity in retrospectives:
+    . Aim to set a posivite tone at the start of the meeting
+    . Determine how you'll set the tone of the meeting
+    . Try anticipating potential negativity by meeting among team members
+    . Consider asking team members indivitually to share their thoughts
+    . Call a meeting break
 
-
-
-
-
-
-
-
-
-
+# Dana: Leading positive retrospectives
