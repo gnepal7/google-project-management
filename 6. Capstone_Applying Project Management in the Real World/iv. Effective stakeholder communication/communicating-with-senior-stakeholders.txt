@@ -1,13 +1,24 @@
 # Introduction: Effective stakeholder communication
 
+# Communicating project problems
 
+# Chris: The art of problem-solving
 
+# Connecting project problems to goals
+  + OKR : objectives, key and results
+    - It can be shared language in an organization.
 
+# Writing emails to escalate a problem
+  > Think about what's most important to your stakeholder
+  > Identify how a problem will impact the organization as a whole and ensure you clearly
+    communicate the impact within the first two sentences of your email
+  > Write a clear subject line
+  > Include language in your subject line that indicates what you'd like your 
+    stakeholder to do upon reading your email
+  > Keep the body of email brief and to the point
+  > Consider including hyperlinks or attachments with that information in your email
+  > Proofread for misspellings, grammatical errors, and inaccurate hyperlinks
 
+# Use AI to improve project communications
 
-
-
-
-
-
-
+# Laura: Stakeholder communication best practices
