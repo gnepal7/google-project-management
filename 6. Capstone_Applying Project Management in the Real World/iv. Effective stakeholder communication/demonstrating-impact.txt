@@ -1,4 +1,30 @@
 # Completing a closeout report
+  - Also known as good project heygine 
+  + A project closeout report includes:
+    . Project summary
+    . Methodology
+    . Performance baseline
+    . Outcomes
+    . Lesson learned
+    . Next steps
+    . Project documentation archive
+  > An effective closeout report:
+    . Helps ensure that everyone is satisfied with the work that was done
+    . Finalizes the efforts of the team and lets people move on to new 
+      projects and tasks
+    . Increases the impact of the team's work through comunication with other 
+      people who may not have been as involved in the project
+
+# Project impact report
+  + Reporting your impact can help you to:
+    . Analyse results to adapt and improve serviess
+    . Motivate staff and senior stakeholders through celebrating achievements
+    . Build trust and credibility with supporters, sponsors, funders, and anyone
+      benefiting from the project
+    . Share lessons with similar organizations
+  > Executive summary:
+  
+# Personal closing report
 
 
 
