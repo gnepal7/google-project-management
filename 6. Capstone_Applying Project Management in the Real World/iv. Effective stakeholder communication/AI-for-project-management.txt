@@ -1,0 +1,66 @@
+# Sharbani: The future of AI
+
+# Key takeaways from AI for Project Management
+  + The growing role of AI in project management
+    . Understanding and using AI is important for your future success as a 
+      project manager, as AI tools become more commonly used in the field. 
+    . AI can help you perform tasks such as analyzing historical project data, 
+      predicting task outcomes, and making risk mitigation recommendations. 
+    . AI tools can augment routine tasks that are essential to completing a 
+      project on time, like suggesting optimizations, sending timely reminders, 
+      and automatically tracking task progress.
+
+  + How project managers can use gen AI to work smarter and faster
+    . Create a template for any project artifact, including project plans, project 
+      timelines, and communication plans.
+    . Create, organize, and outline agendas, meeting notes, and task trackers.
+    . Create content, like emails, project plans, presentation ideas, and executive summaries.
+    . Simplify daily tasks, like automatically summarizing task progress, identifying 
+      potential issues, and sending personalized updates to team members.  
+    . Transcribe or summarize meetings and meeting notes.
+
+  + Basic guidelines for responsible use of generative AI
+    . Review generative AI outputs carefully for accuracy and usefulness.
+    . Disclose your use of generative AI.
+    . Consider the privacy and security implications of using generative AI, and 
+      avoid entering sensitive information.
+    . Apply a human-in-the-loop approach, as AI should always serve as a complement 
+      to our human skills and abilities.
+
+  + AI in action: real-world applications in project management
+    . Quickly and effectively draft a project charter that clearly defines the project 
+      and outlines how to reach key goals.
+    . Identify potential risks that could get in the way of your project’s timely 
+      completion, and brainstorm ways to address them.
+    . Streamline communication with stakeholders by summarizing project information 
+      and drafting emails or other outreach.
+    . Make project meetings and Sprint Retrospectives more efficient and productive 
+      with automatic note-taking, recaps, transcripts, planning assistance, and more.
+    . Coordinate projects across multiple teams using Gemini Notebook, a powerful tool 
+      for research, knowledge organization, and content generation.
+    . Try these examples out yourself using Gemini or another gen AI tool, and keep 
+      experimenting to uncover new ways to apply AI to your role and responsibilities. 
+      With help from AI, you can spend less time on repetitive, routine tasks and devote 
+      more of your energy and attention to leading teams, navigating challenges, and delivering 
+      successful projects.
+
+# Reena: Find inspiration in how others have used AI
+
+# Benefits of staying up to date with AI
+
+# Introducing Google AI Essentials
+
+# Take the next step with Google AI Essentials
+
+# Congratulations from your instructors
+
+
+
+
+
+
+
+
+
+
+
